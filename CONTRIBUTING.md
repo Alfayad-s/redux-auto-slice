@@ -5,7 +5,7 @@ Thanks for your interest in contributing.
 ## Development setup
 
 ```bash
-git clone git@github.personal:Alfayad-s/redux-auto-slice.git
+git clone git@github.com:Alfayad-s/redux-auto-slice.git
 cd redux-auto-slice
 npm install
 ```
@@ -38,7 +38,7 @@ npm install
 
 ## Reporting issues
 
-Use the [GitHub issue tracker](https://github.com/your-username/redux-auto-slice/issues). Include:
+Use the [GitHub issue tracker](https://github.com/Alfayad-s/redux-auto-slice/issues). Include:
 
 - redux-auto-slice and @reduxjs/toolkit versions
 - Code or config that reproduces the issue
