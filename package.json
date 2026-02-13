@@ -39,12 +39,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git@github.company:Alfayad-s/redux-auto-slice.git"
+    "url": "git@github.personal:Alfayad-s/redux-auto-slice.git"
   },
   "bugs": {
-    "url": "https://github.company/Alfayad-s/redux-auto-slice/issues"
+    "url": "https://github.personal/Alfayad-s/redux-auto-slice/issues"
   },
-  "homepage": "https://github.company/Alfayad-s/redux-auto-slice#readme",
+  "homepage": "https://github.personal/Alfayad-s/redux-auto-slice#readme",
   "dependencies": {
     "@reduxjs/toolkit": "^2.11.2"
   },

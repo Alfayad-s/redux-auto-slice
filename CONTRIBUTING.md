@@ -5,7 +5,7 @@ Thanks for your interest in contributing.
 ## Development setup
 
 ```bash
-git clone git@github.company:Alfayad-s/redux-auto-slice.git
+git clone git@github.personal:Alfayad-s/redux-auto-slice.git
 cd redux-auto-slice
 npm install
 ```
