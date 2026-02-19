@@ -1,6 +1,6 @@
 {
   "name": "redux-auto-slice",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Generate Redux Toolkit slices from reducer names — CRUD, entity state, and async built-in.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
